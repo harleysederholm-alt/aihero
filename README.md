@@ -2,7 +2,7 @@
 
 <img src="public/logo.png" alt="AI Guitar Hero Logo" width="120" />
 
-# AI Guitar Hero
+# AI Rock Hero
 
 **A browser-based rhythm game that turns any song into a playable Guitar Hero chart — powered by AI beat detection, real-time 3D rendering, and Web3 wallet integration.**
 
